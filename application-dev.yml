@@ -1,2 +1,2 @@
-some:
- common-key: "common-value-dev"
+service:
+  name: "Service Dev"

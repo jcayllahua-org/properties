@@ -1,2 +1,2 @@
-some:
- common-key: "common-value"
+service:
+  service-name: "Service Default"
