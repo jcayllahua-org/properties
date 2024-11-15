@@ -1,2 +1,2 @@
 service:
-  service-name: "Service Default"
+  name: "Service Default"
