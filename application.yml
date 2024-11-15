@@ -1,2 +1,3 @@
 service:
   name: "Service Default"
+  special: "Special Default"
